@@ -1,7 +1,7 @@
 # LiaPlus AI Assignment – Expense Tracker App
 
-# Deployed Link: https://expensetracker.jaii.in
-# Backend Deployement: https://backend.expensetracker.jaii.in
+## Deployed Link: https://expense-tracker-frontend-git-main-aman-sharmas-projects.vercel.app/dashboard
+## Backend Deployement: https://backend.expensetracker.jaii.in
 
 Hi, I'm Aman Sharma 👋  
 This repository contains the full-stack Expense Tracker application built as part of the LiaPlus AI assignment.
