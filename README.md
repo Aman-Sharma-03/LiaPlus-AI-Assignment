@@ -1,5 +1,7 @@
 # LiaPlus AI Assignment – Expense Tracker App
 
+NOTE: Please do not use website in incognito mode as httpOnly cookies do not work in incognito
+
 ## Deployed Link: https://expensetracker.jaii.in 
                  https://expense-tracker-frontend-git-main-aman-sharmas-projects.vercel.app/dashboard (alt)
 ## Backend Deployement: https://backend.expensetracker.jaii.in
